@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipytest\_impl.py
+# hypothesis_version: 6.142.1
+
+['# ipytest:', '%%ipytest', '-', '--', '--cov', '--deselect', '-k', '.', '.- ', '.coveragerc', 'COLUMNS', 'MODULE', '^\\[coverage:.*$', '^\\[tool\\.coverage.*$', '__file__', '_filename', 'addopts', 'auto', 'clean', 'coverage', 'defopts', 'display_columns', 'end_lineno', 'module', 'pyproject.toml', 'raise_on_error', 'raw_cell', 'rt', 'run_in_thread', 'setup.cfg', 'tox.ini']

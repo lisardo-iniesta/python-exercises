@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipywidgets\widgets\widget_layout.py
+# hypothesis_version: 6.142.1
+
+['LayoutModel', 'LayoutView', 'auto', 'baseline', 'border', 'border_', 'bottom', 'center', 'column', 'column dense', 'contain', 'cover', 'fill', 'flex-end', 'flex-start', 'hidden', 'inherit', 'initial', 'left', 'none', 'right', 'row', 'row dense', 'scale-down', 'space-around', 'space-between', 'space-evenly', 'stretch', 'top', 'unset', 'visible']

@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipytest\_config.py
+# hypothesis_version: 6.142.1
+
+[100, '--color=yes', '-q', '[Tt]est*', 'addopts', 'auto', 'cell', 'clean', 'coverage', 'default', 'defopts', 'display_columns', 'ipytest', 'keep', 'magics', 'raise_on_error', 'rewrite_asserts', 'run_in_thread']

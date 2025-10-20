@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipykernel\kernelapp.py
+# hypothesis_version: 6.142.1
+
+[100, 448, 1000, '    --existing %s', '%s-%i', '.', 'Cleaning up sockets', 'Closing %s channel', 'IPKernelApp', 'IPKernelApp.hb_port', 'IPKernelApp.ip', 'InteractiveShell', 'InterruptiblePdb', 'JPY_INTERRUPT_EVENT', 'JPY_PARENT_PID', 'MPLBACKEND', 'ROUTER_HANDOVER', 'Set main event loop.', '__main__', '_port', '_socket', 'auto', 'connection_dir', 'control', 'f', 'hb', 'install', 'iopub', 'ip', 'ipc', 'ipc://%s', 'ipython-kernel', 'kernel-%s.json', 'no-stderr', 'no-stdout', 'no_stderr', 'no_stdout', 'pylab', 'register', 'shell', 'stderr', 'stdin', 'stdout', 'tcp', 'tcp://%s:%i', 'tornado', 'transport', 'trio-loop', 'trio_loop', 'w', 'win', 'win32']

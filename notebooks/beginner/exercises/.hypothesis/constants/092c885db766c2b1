@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\IPython\core\completerlib.py
+# hypothesis_version: 6.142.1
+
+[' -b ', '%aimport', '\'"', '*', '*.ipy', '*.ipynb', '*.py', '*.pyw', '-', '-%0', '--', '-b', '.', '/', '\\', '__', '__all__', '__file__', '__init__', '_dh', '_mock', 'bookmarks', 'complete_command', 'd [%s]', 'from', 'import', 'import ', 'name', 'rootmodules_cache', '|']

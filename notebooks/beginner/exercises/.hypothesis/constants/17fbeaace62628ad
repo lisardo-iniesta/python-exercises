@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipykernel\zmqshell.py
+# hypothesis_version: 6.142.1
+
+[b'display_data', b'error', b'execute_result', 0.1, 1000, '%s', '&', '.py', '1', 'Autosave disabled', 'CLICOLOR', 'CLICOLOR_FORCE', 'FORCE_COLOR', 'GIT_PAGER', 'Missing filename.', 'PAGER', 'TERM', '_data_pub', '_exit_code', '_thread_local', 'ask_exit', 'banner1', 'cat', 'clear', 'clear_output', 'cls', 'data', 'display_data', 'ed', 'edit', 'edit_magic', 'ename', 'error', 'evalue', 'exit_hook', 'exit_now', 'exiter', 'filename', 'hooks', 'io_loop', 'ipyparallel', 'line_number', 'man %s | col -b', 'metadata', 'more', 'new', 'nt', 'posix', 'prn:', 'set_next_input', 'show_in_pager', 'source', 'traceback', 'transient', 'update_display_data', 'win32', 'xterm-color']

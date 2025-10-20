@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipywidgets\widgets\widget_selection.py
+# hypothesis_version: 6.142.1
+
+['%r not in array', 'DropdownModel', 'DropdownView', 'RadioButtonsModel', 'RadioButtonsView', 'SelectModel', 'SelectMultipleModel', 'SelectMultipleView', 'SelectView', 'Selected index', 'Selected indices', 'Selected label', 'Selected labels', 'Selected value', 'Selected values', 'SelectionSliderModel', 'SelectionSliderView', 'ToggleButtonsModel', 'ToggleButtonsView', '_options_labels', 'danger', 'drag', 'drag-snap', 'drag-tap', 'equals', 'horizontal', 'index', 'info', 'label', 'options', 'primary', 'selection_params', 'slider_params', 'snap', 'success', 'tap', 'value', 'vertical', 'warning']

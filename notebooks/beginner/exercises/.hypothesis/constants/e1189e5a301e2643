@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_net_command_factory_json.py
+# hypothesis_version: 6.142.1
+
+['\n\n%s\n', ' (Current frame)', '%s : %d', '%s in %s', '%s.%s', '.py', '<module>', '<unknown>', 'IS_PLUGIN_FRAME', '__name__', '__package__', '__version__', 'breakpoint', 'co_lines', 'co_lnotab', 'completions', 'console', 'entry', 'exception', 'exited', 'function breakpoint', 'goto', 'important', 'line', 'module', 'new', 'package', 'path', 'pause', 'processReplaced', 'sourceReference', 'stackTrace', 'started', 'stderr', 'stdout', 'step', 'subtle', 'threads']

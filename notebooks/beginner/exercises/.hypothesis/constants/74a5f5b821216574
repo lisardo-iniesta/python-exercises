@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\pydevd_plugins\extensions\types\pydevd_plugin_pandas_types.py
+# hypothesis_version: 6.142.1
+
+['<error getting: %s>', '<unable to get>', 'DataFrame', 'Series', 'Styler', 'T', '__dict__', '_series', 'clipboard', 'data', 'display.max_columns', 'display.max_colwidth', 'display.max_rows', 'java', 'pandas.core.frame', 'pandas.core.series', 'repl', 'style']

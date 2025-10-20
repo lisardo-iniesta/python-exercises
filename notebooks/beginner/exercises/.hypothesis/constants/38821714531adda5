@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipywidgets\widgets\widget_box.py
+# hypothesis_version: 6.142.1
+
+['BoxModel', 'BoxView', 'GridBoxModel', 'GridBoxView', 'HBoxModel', 'HBoxView', 'VBoxModel', 'VBoxView', 'box_params', 'children', 'danger', 'info', 'success', 'warning']

@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipywidgets\widgets\widget_float.py
+# hypothesis_version: 6.142.1
+
+[0.0, 0.1, 0.25, 0.75, 1.0, 4.0, 10.0, 100.0, '.2f', '.3g', 'Base of value', 'Float value', 'FloatLogSliderModel', 'FloatLogSliderView', 'FloatProgressModel', 'FloatRangeSliderView', 'FloatSliderModel', 'FloatSliderView', 'FloatTextModel', 'FloatTextView', 'Max value', 'Min value', 'ProgressView', 'Setting min > max', 'danger', 'drag', 'drag-snap', 'drag-tap', 'horizontal', 'info', 'max', 'min', 'setting max < min', 'setting min > max', 'snap', 'success', 'tap', 'trait', 'value', 'vertical', 'warning']

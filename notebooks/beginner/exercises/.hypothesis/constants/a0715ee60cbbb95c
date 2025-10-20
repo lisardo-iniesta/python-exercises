@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\prompt_toolkit\filters\cli.py
+# hypothesis_version: 6.142.1
+
+['ControlIsSearchable', 'EmacsInsertMode', 'EmacsMode', 'EmacsSelectionMode', 'HasArg', 'HasCompletions', 'HasFocus', 'HasSearch', 'HasSelection', 'HasValidationError', 'InEditingMode', 'InPasteMode', 'IsDone', 'IsMultiline', 'IsReadOnly', 'IsSearching', 'ViDigraphMode', 'ViInsertMode', 'ViInsertMultipleMode', 'ViMode', 'ViNavigationMode', 'ViReplaceMode', 'ViSelectionMode']

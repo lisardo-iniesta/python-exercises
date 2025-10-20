@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\pydevd_tracing.py
+# hypothesis_version: 6.142.1
+
+['%s', '%s\n', '%s%s%s', '.dll', '.dylib', '.so', 'Call Location:\n', 'Error loading: %s', 'amd64', 'attach_', 'attach_linux_', 'gettotalrefcount', 'gevent', 'i386', 'pydev_do_not_trace', 'pydevd_tracing', 'threading', 'threadpool', 'x86', 'x86_64']

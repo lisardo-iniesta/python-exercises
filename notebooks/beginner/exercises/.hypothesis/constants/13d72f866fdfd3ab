@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\zmq\_future.py
+# hypothesis_version: 6.142.1
+
+[0.001, 'RCVTIMEO', 'SNDTIMEO', 'T', '_AsyncSocket', 'cancel', 'copy', 'flags', 'poll', 'recv', 'recv_multipart', 'send', 'send_multipart', 'track', 'utf-8']

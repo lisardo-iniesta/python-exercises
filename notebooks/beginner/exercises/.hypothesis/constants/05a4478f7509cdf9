@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_filtering.py
+# hypothesis_version: 6.142.1
+
+['**', '.', '/', ':', ';', 'ExcludeFilter', 'IDE_PROJECT_ROOTS', 'In library: %s (%s)', 'In project: %s (%s)', 'LIBRARY_ROOTS', 'LIBRARY_ROOTS %s\n', 'PYDEVD_FILTERS', 'PYDEVD_FILTERS %s', '\\', 'getsitepackages', 'getusersitepackages', 'pip-global', 'platlib', 'platstdlib', 'purelib', 'site-packages', 'stdlib', '{']

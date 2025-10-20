@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_resolver.py
+# hypothesis_version: 6.142.1
+
+['%0', '%r', '%s (%s)', '%s (id: %s)', "'", '(', '.%s', '...', '.__dict__[%s]', '0x', '0x%0', ':', 'None', 'Unable to handle:', '[%s:%s]', '[%s]', '_', '__', "__' (", '__class__', '__dict__', '__internals__', '_errors', 'd', 'errors', 'f_locals', 'frame object', 'hex', 'len(%s)', 'maxlen', 'more', 'stack', 'x']

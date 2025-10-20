@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_daemon_thread.py
+# hypothesis_version: 6.142.1
+
+['LOAD_ATTR', 'LOAD_GLOBAL', 'LOAD_METHOD', 'NULL + list', 'NULL|self + values', '_active', '_active_limbo_lock', '_limbo', 'list', 'list + NULL', 'values', 'values + NULL|self']

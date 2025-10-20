@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\parso\python\prefix.py
+# hypothesis_version: 6.142.1
+
+['#', '#[^\\n\\r\\f]*', '$', '%s(%s, %s, %s)', '[ \\t]*', '\\', '\\\\\\r?\\n|\\\\\\r', '\\f', '\\r?\\n|\\r', 'backslash', 'bom', 'comment', 'formfeed', 'newline', 'spacing', 'utf-8']

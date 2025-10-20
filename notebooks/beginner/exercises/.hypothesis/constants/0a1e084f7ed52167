@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\zmq\sugar\context.py
+# hypothesis_version: 6.142.1
+
+[' closed', 'Context', 'Socket', 'SyncContext', '_ContextType', '_SocketType', '_repr_cls', '_sockets', 's', 'zmq.Context']

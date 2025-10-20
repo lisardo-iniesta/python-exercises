@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\tornado\platform\asyncio.py
+# hypothesis_version: 6.142.1
+
+[b'a', 1024, 'ProactorEventLoop', 'SelectorThread', 'Tornado selector', 'WSAENOTSOCK', '_FileDescriptorLike', '_T', '_real_loop', '_selector', 'add_reader', 'add_writer', 'asyncio.Future[_T]', 'asyncio_loop', 'close', 'fd %s added twice', 'remove_reader', 'remove_writer', 'win32']

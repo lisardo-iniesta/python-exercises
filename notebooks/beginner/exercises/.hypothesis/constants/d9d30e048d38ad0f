@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_additional_thread_info_regular.py
+# hypothesis_version: 6.142.1
+
+['.invalid.', 'is_in_wait_loop', 'is_tracing', 'pydev_func_name', 'pydev_message', 'pydev_next_line', 'pydev_notify_kill', 'pydev_state', 'pydev_step_cmd', 'pydev_step_stop', 'suspend_type', 'thread_tracer', 'trace', 'trace_suspend_type', 'weak_thread']

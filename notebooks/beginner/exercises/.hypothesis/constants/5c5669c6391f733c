@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\tornado\gen.py
+# hypothesis_version: 6.142.1
+
+['Future[None]', 'Future[_T]', 'No pending future', 'Return', 'StopAsyncIteration', 'Timeout', '_T', '_source_traceback', 'no future is running', 'no pending future']

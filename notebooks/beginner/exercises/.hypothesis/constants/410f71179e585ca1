@@ -1,0 +1,4 @@
+# file: C:\Users\Lisardo Iniesta\AppData\Roaming\Python\Python313\site-packages\ipywidgets\widgets\widget_templates.py
+# hypothesis_version: 6.142.1
+
+['"{}"', '.', '1fr', '1fr 1fr', '2fr', '3fr', '\\d+\\.?\\d*$', '\\d+\\.?\\d*(px|fr|%)$', 'align_items', 'baseline', 'bottom', 'bottom-', 'bottom-left', 'bottom-right', 'bottom_left', 'bottom_right', 'center', 'flex-end', 'flex-start', 'footer', 'fr', 'header', 'left', 'left-sidebar', 'left_sidebar', 'merge', 'n_columns', 'n_rows', 'name', 'new', 'pane_heights', 'pane_widths', 'repeat(%d, 1fr)', 'right', 'right-sidebar', 'right_sidebar', 'space-around', 'space-between', 'stretch', 'style_params', 'top', 'top-', 'top-left', 'top-right', 'top_left', 'top_right', 'value', 'widget%03d']
